@@ -10,4 +10,8 @@
 
 闲话少说，让我们开始吧
 
-* [leetcode - 1](leetcode/1.md)
+* [leetcode](leetcode/leetcode1_两数之和.md)
+
+>   ==一张图表明立场:sweat_smile:==
+>
+>   ![你寄吧谁啊](https://raw.githubusercontent.com/Fc-Sanc/shuang_lib_bed/lib_bed/img/%E4%BD%A0%E5%AF%84%E5%90%A7%E8%B0%81%E5%95%8A.png)
