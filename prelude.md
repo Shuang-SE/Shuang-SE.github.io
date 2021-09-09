@@ -15,3 +15,4 @@
 > 一张图表明立场:sweat_smile:
 >
 >   <img alt="你寄吧谁啊" height="50%" src="https://raw.githubusercontent.com/Fc-Sanc/shuang_lib_bed/lib_bed/img/%E4%BD%A0%E5%AF%84%E5%90%A7%E8%B0%81%E5%95%8A.png" width="50%"/>
+
